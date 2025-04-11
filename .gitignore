@@ -1,3 +1,7 @@
+build/*
+
+ball_tracker/data/*
+
 # Prerequisites
 *.d
 
